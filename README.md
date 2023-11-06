@@ -2,8 +2,6 @@
 
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-🐍 Aprendendo Python
-
 🌱 Apaixonado por programação
 
 🚀 Explorando, aprendendo e colaborando
