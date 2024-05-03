@@ -13,8 +13,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, buscando me desenvolver cad
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=f5800b)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=e7e316)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![Django](https://img.shields.io/badge/django-000.svg?style=for-the-badge&logo=django&logoColor=%23092E20)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=f5800b)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
 
